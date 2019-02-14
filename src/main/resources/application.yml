@@ -1,0 +1,14 @@
+my:
+  data:
+    prod-id: 8
+    prod-code: AT
+    prod-cost: 6.3
+    prod-modules:
+    - M1
+    - M2
+    prod-versions:
+      V1: 1.0-SNAPSHOT
+      V2: 1.0-BUILD
+    mod-info:
+      module-code: META
+      module-ver: 2
