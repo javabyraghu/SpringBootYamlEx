@@ -1,6 +1,6 @@
 my:
   data:
-    prod-id: 8
+    prod-id: 98
     prod-code: AT
     prod-cost: 6.3
     prod-modules:
@@ -12,11 +12,3 @@ my:
     mod-info:
       module-code: META
       module-ver: 2
----
-spring:
-  profiles:
-    active:
-    - dev
-my:
-  data:
-    prod-id: 999          
