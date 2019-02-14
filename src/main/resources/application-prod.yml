@@ -9,6 +9,7 @@ my:
     prod-versions:
       V1: 1.0-SNAPSHOT
       V2: 1.0-BUILD
+      V3: 1.2.2-RELEASE
     mod-info:
       module-code: META
       module-ver: 2
