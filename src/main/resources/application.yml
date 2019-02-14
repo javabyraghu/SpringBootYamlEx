@@ -19,4 +19,4 @@ spring:
     - dev
 my:
   data:
-    prod-id: 999          
+    prod-id: 666          
